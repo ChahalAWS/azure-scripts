@@ -18,6 +18,9 @@
             "value": {
                 "Environment": "Production",
                 "Project": "Tutorial"
+            },
+            "blobEncryptionEnabled": {
+                "value": true
             }
         }
     }
