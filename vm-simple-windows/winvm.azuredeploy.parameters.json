@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "default"
+      "value": "dasta"
     },
     "adminPassword": {
-      "value": "default"
+      "value": "Dasta@123456"
     },
     "dnsLabelPrefix": {
       "value": "defaultappdemotest"
